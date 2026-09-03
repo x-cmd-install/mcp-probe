@@ -1,0 +1,58 @@
+about:
+  description: A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interactive debugger.
+  license: MIT
+  homepage: https://conikeec.github.io/mcp-probe/
+  head: 23ef53e
+  archived: false
+  latestVersion: v0.3.0
+  collectedAt: 2026-09-03T05:14:10Z
+timeline:
+  created: 2025-06-20
+  lastCommit: 2025-07-08
+  lastRelease: 2025-06-30
+popularity:
+  star: 137
+  watcher: 1
+  fork: 10
+  release: 18
+  contributor: 2
+  pullRequest: 23
+  issue: 9
+language:
+  Rust: 763890
+  Shell: 22216
+  Ruby: 2144
+totalLine: 788250
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 0
+    openPR: 10
+    closedIssue: 0
+    openIssue: 6
+    commit: 0
