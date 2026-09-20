@@ -4,7 +4,7 @@
 
 A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interactive debugger.
 
-![mcp-probe](https://repo.x-cmd.io/mcp-probe.svg)
+[![x-cmd/install — mcp-probe Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcp-probe.svg)](https://x-cmd.com/install/mcp-probe)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **17,861** lines of code across **52** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 139 · **Forks**: 10 · **Open issues**: 9 · **Contributors**: 2
+- **Stars**: 139 · **Forks**: 11 · **Open issues**: 9 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **17,861** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 9 | 0 | 6 | 0 |
-| last720d | 2024-09-28 | 18 | 1 | 14 | 1 | 8 | 50 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 9 | 0 | 6 | 0 |
+| last720d | 2024-09-30 | 18 | 1 | 14 | 1 | 8 | 50 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for mcp-probe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:47:40Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:55:19Z._
